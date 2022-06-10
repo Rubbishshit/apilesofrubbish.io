@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x86102b47E7f8eA88A6CDd53835F2860A7f93e504",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x86102b47e7f8ea88a6cdd53835f2860a7f93e504",
+  "NETWORK": {
+    "NAME": "RINKEBY",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "A piles of rubbish",
+  "SYMBOL": "Rubbish",
+  "MAX_SUPPLY": 10000,
+  "MAX_Free_SUPPLY": 2000,
+  "MAX_FREE": 3,
+  "WEI_COST": 7770000000000000,
+  "DISPLAY_COST": 0.00777,
+  "MAX_MINT": 10,
+  "GAS_LIMIT": 120000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/shitbeastgrlz",
+  "SHOW_BACKGROUND": true
+}
