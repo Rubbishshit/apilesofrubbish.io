@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x86102b47E7f8eA88A6CDd53835F2860A7f93e504",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x86102b47e7f8ea88a6cdd53835f2860a7f93e504",
+  "CONTRACT_ADDRESS": "0x8B44b715004020773E8da1cD730de2f47c7D88b8",
+  "SCAN_LINK": "https://etherscan.io/address/0x8b44b715004020773e8da1cd730de2f47c7d88b8",
   "NETWORK": {
-    "NAME": "RINKEBY",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "A piles of rubbish",
   "SYMBOL": "Rubbish",
@@ -16,6 +16,6 @@
   "MAX_MINT": 10,
   "GAS_LIMIT": 120000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/a-piles-of-rubbish-fps6tvqdjl",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/a-piles-of-rubbish",
   "SHOW_BACKGROUND": true
 }
